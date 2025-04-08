@@ -123,3 +123,11 @@ if __name__ =="__main__":
 ## Result:
 The program successfully implements the Round Robin scheduling algorithm and computes all relevant times as expected.
 
+
+## INSTRUCTOR LED EXAM 
+![Screenshot 2025-04-08 192657](https://github.com/user-attachments/assets/6f696229-9e02-4a25-ac11-8a5a5809e44e)
+![Screenshot 2025-04-08 192706](https://github.com/user-attachments/assets/a9aac07d-c51b-468f-8bb5-90d8b352b6b2)
+![Screenshot 2025-04-08 192722](https://github.com/user-attachments/assets/840dfd5d-dd31-40cd-85f3-6ab1021f9d3a)
+![Screenshot 2025-04-08 192733](https://github.com/user-attachments/assets/8d837dfe-5d22-498b-bce5-9fa84021d93f)
+![Screenshot 2025-04-08 192803](https://github.com/user-attachments/assets/2e7d9a2b-ee6b-4e08-a4e3-04e59bc1d366)
+![Screenshot 2025-04-08 192810](https://github.com/user-attachments/assets/2ba8fa9e-815f-4439-95ab-300ac9c05af0)
